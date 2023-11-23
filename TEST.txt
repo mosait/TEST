@@ -1,3 +1,4 @@
 ||youtube.com/shorts^
 ||m.youtube.com/shorts^
 ||instagram.com/reel^
+||facebook.com/reel^
